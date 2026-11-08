@@ -492,5 +492,8 @@
         "url": "https://149159.xyz"
     },
     "publisher": "nguyenngoclong",
-    "license": "MIT"
+    "license": "MIT",
+    "allowScripts": {
+        "esbuild@0.17.19": true
+    }
 }
