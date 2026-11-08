@@ -22,7 +22,7 @@ jobs:
 
             - uses: actions/setup-node@v3
               with:
-                  node-version: 16.x
+                  node-version: 24
                   cache: 'npm'
                 #   always-auth: true
                 #   registry-url: https://npm.pkg.github.com/
