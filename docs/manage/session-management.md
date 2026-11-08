@@ -9,20 +9,20 @@
 
 ## Terminal Keeper activity ✨
 
-![Terminal Keeper Activity](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/terminal-keeper-activity.gif)
+![Terminal Keeper Activity](https://cdn.149159.xyz/images/terminal-keeper/terminal-keeper-activity.gif)
 
 ## Active on startup
 
-![Active on startup](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/active-on-startup.gif)
+![Active on startup](https://cdn.149159.xyz/images/terminal-keeper/active-on-startup.gif)
 
 ## Choose session to activate
 
-![Choose which terminal session to activate](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/active-session.gif)
+![Choose which terminal session to activate](https://cdn.149159.xyz/images/terminal-keeper/active-session.gif)
 
 ## Active session in workspace directory
 
-![Active terminal session in your workspace directory](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/active-session-here.gif)
+![Active terminal session in your workspace directory](https://cdn.149159.xyz/images/terminal-keeper/active-session-here.gif)
 
 ## Remove unwanted sessions
 
-![Remove unwanted terminal sessions](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/remove-session.gif)
+![Remove unwanted terminal sessions](https://cdn.149159.xyz/images/terminal-keeper/remove-session.gif)

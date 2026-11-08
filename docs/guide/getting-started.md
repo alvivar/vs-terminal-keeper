@@ -25,7 +25,7 @@ Once installed, **Terminal Keeper** will appear in your VSCode environment, read
 
 After installation, you can start using **Terminal Keeper** right away. Here's a quick guide to help you get up and running:
 
-![Activate the last used terminal session](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/active-default-session.gif)
+![Activate the last used terminal session](https://cdn.149159.xyz/images/terminal-keeper/active-default-session.gif)
 
 The following features will help you get started:
 

@@ -3,14 +3,14 @@
 ## Built-in themes
 
 <p align="center">
-  <img src="https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/terminal-keeper-theme.png">
+  <img src="https://cdn.149159.xyz/images/terminal-keeper/terminal-keeper-theme.png">
 </p>
 
 Choose between randomly assigned colors and icons based on the terminal name or opt for the `Dice` theme for a fresh look every time you activate a session.
 
 ## Distinct random colors and icons
 
-![Active on startup](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/auto-theme.gif)
+![Active on startup](https://cdn.149159.xyz/images/terminal-keeper/auto-theme.gif)
 
 ## Specify terminal icon and color
 

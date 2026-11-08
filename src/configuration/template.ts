@@ -2,7 +2,7 @@
 import { TerminalTheme } from '@vscode-utility/terminal-browserify';
 import { SessionConfiguration, configFileVersions } from './interface';
 
-export const latestSchema = `https://cdn.statically.io/gh/nguyenngoclongdev/cdn/main/schema${configFileVersions.latest}terminal-keeper.json`;
+export const latestSchema = `https://cdn.149159.xyz/schema${configFileVersions.latest}terminal-keeper.json`;
 export const configurationTemplate: SessionConfiguration = {
     $schema: latestSchema,
     theme: TerminalTheme.tribe,

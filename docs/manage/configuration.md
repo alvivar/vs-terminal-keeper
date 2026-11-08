@@ -2,11 +2,11 @@
 
 ## Generate configuration
 
-![Generate configuration templates](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/generate-configuration.gif)
+![Generate configuration templates](https://cdn.149159.xyz/images/terminal-keeper/generate-configuration.gif)
 
 ## Quick configuration access
 
-![Quick open configuration](https://github.com/nguyenngoclongdev/cdn/raw/HEAD/images/terminal-keeper/open-configuration.gif)
+![Quick open configuration](https://cdn.149159.xyz/images/terminal-keeper/open-configuration.gif)
 
 ## Advance Configuration
 
@@ -147,7 +147,7 @@ focus?: boolean
 
 ```jsonc
 {
-    "$schema": "https://cdn.statically.io/gh/nguyenngoclongdev/cdn/main/schema/v10/terminal-keeper.json",
+    "$schema": "https://cdn.149159.xyz/schema/v12/terminal-keeper.json",
     "theme": "neon",
     "active": "default",
     "activateOnStartup": true,
