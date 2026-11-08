@@ -10,6 +10,7 @@
 **/.eslintrc.json
 **/package-lock.json
 **/webpack.config.json
+**/esbuild.js
 
 # Ignore extension configs
 .vscode/**
@@ -22,6 +23,7 @@ out/test/**
 
 # Ignore source code
 src/**
+docs/**
 dist/__test__/**
 node_modules/**
 
